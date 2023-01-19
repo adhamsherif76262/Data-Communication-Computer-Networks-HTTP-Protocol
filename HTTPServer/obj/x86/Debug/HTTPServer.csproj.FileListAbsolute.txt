@@ -1,0 +1,20 @@
+C:\Users\dell\Desktop\Template\HTTPServer\bin\Debug\HTTPServer.exe
+C:\Users\dell\Desktop\Template\HTTPServer\bin\Debug\HTTPServer.pdb
+C:\Users\dell\Desktop\Template\HTTPServer\obj\x86\Debug\HTTPServer.exe
+C:\Users\dell\Desktop\Template\HTTPServer\obj\x86\Debug\HTTPServer.pdb
+E:\year 3 sem1\project networks\Template[2021-2022]\HTTPServer\bin\Debug\HTTPServer.exe
+E:\year 3 sem1\project networks\Template[2021-2022]\HTTPServer\bin\Debug\HTTPServer.pdb
+E:\year 3 sem1\project networks\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.csprojAssemblyReference.cache
+E:\year 3 sem1\project networks\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.csproj.CoreCompileInputs.cache
+E:\year 3 sem1\project networks\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.exe
+E:\year 3 sem1\project networks\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.pdb
+C:\Users\Dell\OneDrive - Faculty Of Computer and Information Technology (Ain Shams University)\Desktop\Data Communication & Computer Networks\Project\project networks\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive - Faculty Of Computer and Information Technology (Ain Shams University)\Desktop\Data Communication & Computer Networks\Project\project networks\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive - Faculty Of Computer and Information Technology (Ain Shams University)\Desktop\Data Communication & Computer Networks\Project\project networks\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.exe
+C:\Users\Dell\OneDrive - Faculty Of Computer and Information Technology (Ain Shams University)\Desktop\Data Communication & Computer Networks\Project\project networks\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.pdb
+E:\Year 3 Term 1\Data Communication & Computer Networks\Project\project networks\Template[2021-2022]\HTTPServer\bin\Debug\HTTPServer.exe
+E:\Year 3 Term 1\Data Communication & Computer Networks\Project\project networks\Template[2021-2022]\HTTPServer\bin\Debug\HTTPServer.pdb
+E:\Year 3 Term 1\Data Communication & Computer Networks\Project\project networks\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.csproj.AssemblyReference.cache
+E:\Year 3 Term 1\Data Communication & Computer Networks\Project\project networks\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.csproj.CoreCompileInputs.cache
+E:\Year 3 Term 1\Data Communication & Computer Networks\Project\project networks\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.exe
+E:\Year 3 Term 1\Data Communication & Computer Networks\Project\project networks\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.pdb
